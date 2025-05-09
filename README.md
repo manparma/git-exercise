@@ -1,3 +1,3 @@
 # git-exercise
 
-### Git Exercise 11.6
+### Git Exercise 11.6 
